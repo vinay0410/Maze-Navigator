@@ -3,7 +3,7 @@
 A bot driven by Raspberry Pi which navigates a circular maze, by visiting all checkpoints to the center of the maze. Also the bot is guided by the base station via a laser pointer which, is driven by NodeMCU(ESP8266).
 
 A sample maze looks something like this:
-![Maze](images/MAP.jpg)
+![Maze](images/MAP.jpg?width=40)
 
 
 So, First the Computer processes this image to calulate the shortest Optimum path from Start to the Centre.
