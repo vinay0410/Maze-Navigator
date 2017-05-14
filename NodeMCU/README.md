@@ -1,0 +1,1 @@
+The following code will run on NodeMCU(ESP8266) and will start executing as soon as it is turned on.

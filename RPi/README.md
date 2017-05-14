@@ -1,0 +1,1 @@
+The following code will be run on a Raspberry Pi which is connected to camera and has WiFi or is connected to a WiFi dongle. Adjustments have to be made to run this code on startup and also to connect to NodeMCU's(ESP866) WiFi Access Point.
